@@ -9,7 +9,7 @@ using namespace std;
 void Player::increaseLevel()
 {
   mCurrentLevel++;
-
+ cout << "Alexandra är bäsT";
 }
 
 void Player::increaseMoney(int amount)
